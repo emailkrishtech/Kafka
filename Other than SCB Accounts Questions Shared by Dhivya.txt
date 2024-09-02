@@ -1,0 +1,154 @@
+1. Core Java
+-------------
+
+· Internal working of HashMap?
+
+· Explain internal working of put()and get()method in HashMap?
+
+· Difference between LinkedList and Vector?
+
+· How Synchronized a HashMap?
+
+· What is the difference between Synchronized HashMap & ConcurrentHashMap and which is better to use in multithreading environment?
+
+· How CopyOnArrayList work Internally?
+
+· What is concurrent modification exception how will you handle it?
+
+· Explain in project how did you implement encapsulation, Polymorphism & inheritance?
+
+· Why String is immutable?
+
+· What is the use of final, finally & finalize?
+
+· Question related to exception handling?
+
+· Difference between comparable & comparator?
+
+· Contract between equals and hashcode method?
+
+· Difference between thread & process?
+
+· When should be override hashcode & equals method?
+
+· Create singleton class with all use cases? How will you protect if someone try to clone singleton class using clone method.
+
+· Difference between String, StringBuffer & String Builder?
+
+· How will you write immutable class?
+
+
+
+2. Java 8
+-----------
+· What are the features got introduced in java 8?
+
+· What is stream api explain and what are the benefit of it?
+
+· What is lambda expression?
+
+· What is functional interface and why should we use it?
+
+· Difference between intermediate and terminal operation in stream api?
+
+· Tell the name of some predefine functional interfaces?
+
+· What is static & default method in interface why they have given?
+
+· Difference between map & flatmap?
+
+· Reverse a string using java 8?
+
+· Given an array of number [2,3,5,15,17,19] find the digit which start with 1 using java 8 only.
+
+· Given an array of number [23,40,89,1,5,8,-2,-5-]find all the single digit number using java 8 only.
+
+· Get second highest salary of employee using java 8?
+
+· Write a program to move all zero at left side and all non-zero element at right side.
+
+Int arr=[0,3,0,7,8,0,0]output:[0,0,0,0,3,7,8].
+
+· Sort map using key & value using java 8?
+
+· Count number of occurrences in given string “Apple” using java 8?
+
+· Find first non-repeated character in string and print that. 
+
+
+
+SpringBoot: 
+-----------
+
+1. What is dependency & types of dependency injection?
+
+2. What is Ioc container and its type?
+
+3. Difference between spring & spring boot?
+
+4. Difference between @Component & @Bean annotation?
+
+5. What is the use of @Autowired @Qulifires @Primary & when should be use them1. Explain
+
+6. all the annotations that you have used in project?
+
+7. Difference between Component & Controller, Service, Repository? Why can't we
+
+Component annotation instead of all these three?
+
+8. How do you handle exceptions in Spring Boot application?
+
+9. Explain how did you implemented spring security? (OAuth2 & JWT)
+
+10. Explain the how did you implemented validations? what are predefined annotations of validations?
+
+11. Explain how your different services interact with each other in microservices architecture? (Using REST / API Gateway)
+
+12. Explain how API Gateway works and how did you configure it?
+
+13. What is Load balancer?
+
+14. How to secure API in controller layer (explain annotations)
+
+15. How you write junit tests? (might ask how to write junit to cover try-catch exception block, void method)
+
+16. How will you write test cases for controller layer?
+
+17. Can we mock static, final, & private method?
+
+18. Difference between mock & spy?
+
+19. How you create API using spring boot? explain Layered architecture (controller, service, repo), explain how you implement JPA explain syntax
+
+20. Scenario based question - Can we create single API which can handle getById and getAll ? explain how to do it?
+
+21. How will you validate your request body in spring boot.
+
+22. How will you read application. Properties value?
+
+23. What is circular dependency if it is occur how will you resolve it?
+
+24. Difference between @Pathvariable & @RequestParma annotation?
+
+25. Difference between put & patch method.
+
+26. Explain spring boot profile?
+
+27. How to handle exception globally?
+
+
+
+
+
+Hibernate: 
+------------
+
+1. Hibernate vs JPA.
+
+2. Explain One to Many, Many to One mappings with code sample.
+
+3. What is sessions in hibernate & SessionFactory in hibernate?
+
+4. Difference between load & get method?
+
+5. What is caching? Different of types of caching in hibernate?
